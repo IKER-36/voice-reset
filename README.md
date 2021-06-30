@@ -1,5 +1,5 @@
-# about
-Simple command to reset your voice chat.
+# About
+Simple command to reset your voice chat. (ESX FRAMEWORK)
 
 # How to install
 Move the folder to your [esx] folder <br><br>
